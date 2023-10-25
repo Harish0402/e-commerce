@@ -1,0 +1,12 @@
+.nm{color: rgb(0, 0, 0); font-size: 25px;}
+header{background-image: url(./258d16bb-718f-498c-a521-43d592f96d19.jpeg);align-self:0%;}
+.mm{background-color:rgb(255, 96, 135);height: 2cm;font-size:55px;color: rgb(255, 255, 255);
+font-family: 'Times New Roman', Times, serif;}
+footer,header{background-color: rgb(28, 12, 250);}
+.product{border-color: black;;}
+.mm{color:  rgb(238, 255, 0);border-style: dashed;border-color: rgb(247, 247, 247);}
+    footer{border-style: groove;border-bottom-color: rgb(255, 145, 0);border-top-color: rgb(255, 145, 0);}
+    header{border-bottom-color: rgb(255, 145, 0);border-style: groove;border-top-color: rgb(255, 145, 0);}
+    .product{background-color: antiquewhite;}
+    body{background-image: url(./59ca6de4-92a7-4d15-8698-be66402847c5.jpeg);}
+    h1{color:rgb(0, 0, 0);background-color: antiquewhite;}
